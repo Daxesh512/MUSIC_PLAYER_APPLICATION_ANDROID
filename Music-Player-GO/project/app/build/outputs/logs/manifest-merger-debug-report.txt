@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\96d1157b40875ec7a38bdd7a88b9523c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce12948edd69b3a402667b96164bc775\AndroidManifest.xml:17:1-22:12
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\c1af9d15058517b3ae7c73e812786ac3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b5b0d5b410469529c3e840c710664076\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a2af17435b70711b95d81757e843f6a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\342b3b6c544c5f4ec88c9ecb77472df6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f506c0491a910bf7f17e05896ace26a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52e70513a4d58d77184f30dfebe71516\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d0e830741fb716a3553c0c22d29047\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\23e1b0421335f86673ed04901fad8a80\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5a27d05f18c7c7f161e5258a9d68ab11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9463e8f3ebefda0eafe18cf99a84683f\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:6:22-65
+application
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:8:5-24:19
+	android:supportsRtl
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.iven.musicplayergo.MainActivity
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:screenOrientation
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:20:27-74
+service#com.iven.musicplayergo.playback.MusicService
+ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml:23:18-55
+uses-sdk
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\96d1157b40875ec7a38bdd7a88b9523c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\96d1157b40875ec7a38bdd7a88b9523c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce12948edd69b3a402667b96164bc775\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\ce12948edd69b3a402667b96164bc775\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\c1af9d15058517b3ae7c73e812786ac3\AndroidManifest.xml:7:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.18] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\recyclerview-fastscroll-1.0.18.aar\c1af9d15058517b3ae7c73e812786ac3\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b5b0d5b410469529c3e840c710664076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b5b0d5b410469529c3e840c710664076\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a2af17435b70711b95d81757e843f6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a2af17435b70711b95d81757e843f6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\342b3b6c544c5f4ec88c9ecb77472df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\342b3b6c544c5f4ec88c9ecb77472df6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f506c0491a910bf7f17e05896ace26a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3f506c0491a910bf7f17e05896ace26a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52e70513a4d58d77184f30dfebe71516\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\52e70513a4d58d77184f30dfebe71516\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d0e830741fb716a3553c0c22d29047\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\93d0e830741fb716a3553c0c22d29047\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\23e1b0421335f86673ed04901fad8a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\23e1b0421335f86673ed04901fad8a80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5a27d05f18c7c7f161e5258a9d68ab11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5a27d05f18c7c7f161e5258a9d68ab11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9463e8f3ebefda0eafe18cf99a84683f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ritesh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9463e8f3ebefda0eafe18cf99a84683f\AndroidManifest.xml:20:5-44
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects for code-projects\android projects\Music-Player-GO-master\project\app\src\main\AndroidManifest.xml
